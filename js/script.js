@@ -1,4 +1,4 @@
- var previousButton, nextButton;
+    var previousButton, nextButton;
     var carouselContainer, cards, pageDots;
     var leftSlideIndex = 0; 
 
